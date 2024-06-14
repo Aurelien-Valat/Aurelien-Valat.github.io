@@ -1,0 +1,50 @@
+.centre {
+    text-align: center;
+    line-height: 40px;
+}
+
+nav{
+    background: #000;
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+nav  a{
+    float: left;
+    text-decoration: none;
+    color: #ffffff;
+    background: #000000;
+    height: 40px;
+    line-height: 33px;
+    padding: 0 70px;
+    font-family: sans-serif;
+    font-size: 15px;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+nav  a:hover{
+    background: #812098;
+}
+
+.case {
+    border-width: 2px;
+    border-style: double;
+    border-radius: 5px;
+    height: 45px;
+}
+
+.case a {
+    color: black;
+    text-decoration: none;
+}
+
+.case:hover{
+    transition: 0.7s;
+    transform: scale(1.1);
+}
+
+footer {
+    position: fixed;
+    bottom:0
+}
