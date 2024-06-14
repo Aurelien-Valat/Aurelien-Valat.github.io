@@ -27,12 +27,6 @@ nav  a:hover{
     background: #812098;
 }
 
-.case {
-    border-width: 2px;
-    border-style: double;
-    border-radius: 5px;
-    height: 45px;
-}
 
 .case a {
     color: black;
